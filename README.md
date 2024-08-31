@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, eu sou Brenda Vitória, uma desenvolvedora Front-End apaixonada por criar experiências digitais incríveis. Minha expertise está em transformar designs criativos em interfaces interativas e amigáveis. Estou sempre atualizada com as últimas tendências e tecnologias do mundo Front-End para proporcionar aos usuários uma navegação fluida e envolvente.
+ Olá! Eu sou Brenda Vitória, uma desenvolvedora Mobile especializada em React Native e TypeScript. Meu objetivo é transformar ideias em aplicativos móveis dinâmicos e intuitivos. Com uma abordagem apaixonada e focada nas últimas inovações tecnológicas, me dedico a criar experiências digitais que impressionam os usuários e atendem às suas necessidades. Estou sempre em busca de novas tendências para garantir soluções modernas e eficazes no desenvolvimento de aplicativos.
 </p>
 
 <p align="left">
@@ -16,10 +16,10 @@
 
 ##
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:brendavitoria0602@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/brendavit0ria)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/_brendavit0ria/)
-
+<div> 
+<a href="mailto:brendavitoria0602@gmail.com"><img src="https://img.shields.io/badge/-Email-%23000?style=for-the-badge&logo=gmail&logoColor=FF00F6" target="_blank"></a>
+<a href="https://www.linkedin.com/in/brendavit0ria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" target="_blank"></a>
+</div>
 
 
 <picture>
