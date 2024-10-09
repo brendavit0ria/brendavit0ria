@@ -17,7 +17,7 @@
 ##
 
 <div> 
-<a href="mailto:brendavitoria0602@gmail.com"><img src="https://img.shields.io/badge/-Email-%23000?style=for-the-badge&logo=gmail&logoColor=FF00F6" target="_blank"></a>
+<a href="mailto:brendavitoria0602@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23000?style=for-the-badge&logo=gmail&logoColor=FF00F6" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brendavit0ria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" target="_blank"></a>
 </div>
 
