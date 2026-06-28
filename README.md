@@ -1,32 +1,26 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=Ol%C3%A1+eu+sou+a+Brenda+Vit%C3%B3ria!+%CB%99%E1%B5%95%CB%99+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99" alt="Typing SVG">
   </a>
 </div>
 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
- Olá! Eu sou Brenda Vitória, uma desenvolvedora Mobile especializada em React Native e TypeScript. Meu objetivo é transformar ideias em aplicativos móveis dinâmicos e intuitivos. Com uma abordagem apaixonada e focada nas últimas inovações tecnológicas, me dedico a criar experiências digitais que impressionam os usuários e atendem às suas necessidades. Estou sempre em busca de novas tendências para garantir soluções modernas e eficazes no desenvolvimento de aplicativos.
+Full Stack Developer specialized in ReactJS, TypeScript, and NestJS, with a growing focus on Back-End architectures to build complete and scalable solutions. As a Software Engineering student, I aim to combine technical expertise with a solid academic foundation to solve problems in a structured and strategic way. I value knowledge sharing and continuous learning as the driving forces behind my growth in the field.
 </p>
 
-<p align="left">
-  <div style="display: inline_block">
-  <img align="center" alt="Brenda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Brenda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Brenda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-   <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nestjs,java" height="40" />
+  </a>
 </div>
-</p>
 
+<br>
 
 <div> 
-<a href="mailto:brendavitoriasts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23000?style=for-the-badge&logo=gmail&logoColor=FF00F6" target="_blank"></a>
-<a href="https://www.linkedin.com/in/brendavit0ria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" target="_blank"></a>
+<a href="https://www.linkedin.com/in/brendavit0ria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge"></a>
+<a href="mailto:brendavitoriasts@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge"></a>
 </div>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brendavit0ria/brendavit0ria/output/github-contribution-grid-snake-dark.svg">
