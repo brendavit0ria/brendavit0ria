@@ -11,15 +11,15 @@ Full Stack Developer specialized in ReactJS, TypeScript, and NestJS, with a grow
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nestjs,java" height="40" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,java" height="40" />
   </a>
 </div>
 
 <br>
 
 <div> 
-<a href="https://www.linkedin.com/in/brendavit0ria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge"></a>
 <a href="mailto:brendavitoriasts@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/brendavit0ria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge"></a>
 </div>
 
 <picture>
